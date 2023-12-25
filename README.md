@@ -1,6 +1,6 @@
-# Project Webiste
+# Project Website
 
-This is the repository that contains source code for the [Project in IS in LLMS](https://philwicke.github.io/schema_website/).
+
 
 
 
